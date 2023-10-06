@@ -28,3 +28,6 @@ bin/
 ### Mac OS ###
 .DS_Store!/users.csv
 /users.csv
+
+### Default local tests ###
+/test
